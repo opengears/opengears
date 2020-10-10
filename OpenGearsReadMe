@@ -1,0 +1,19 @@
+Welcome to Open Gears!
+Take a look at http://www.Open-Gears.com to see Open Gears in action!
+
+Open-Gears is an open source construction toy. It is based around a set of wooden gears, widely available (6mm wide) dowels, magnets and 3D printable connectors.
+on this GitHub you will find:
+
+.DXF files of the gears, so you can have them CNC-ed on 6mm thick wood by your local CNC factory
+.STL files of the connectors, so you can 3D print your own connectors, design your own additional connectors, or have your neighbour print your connectors.
+
+when designing your own additions, please keep a few things in mind:
+base your designs as much as possible around the following constraints:
+-use the standard available gears, with round holes of 10mm diameter
+-the cutting width of the CNC machine is .15 mm
+-the width of the compatible magnets, dowels and rods are all 6 mm
+-when using rods use multiples of 10 mm
+
+Please note that you are not obliged to keep your own designs open source. It would be appreciated if you share pictures of your results on any platform with the hashtag: #OpenGears 
+
+the idea is: the more OpenGears users/designers, the more additions to the ecosystem, the more users etc..
