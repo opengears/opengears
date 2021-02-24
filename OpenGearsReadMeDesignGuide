@@ -11,10 +11,10 @@ on this GitHub page you will find:
 
 when designing your own additions, please keep a few things in mind:
 base your designs as much as possible around the following rules:
--use the standard available gears, with round holes of 10mm diameter
+-use the standard available gears, with round holes of 10 mm in diameter
 -use a cutting width of the CNC machine of .15 mm
 -the width of the compatible magnets, dowels and rods are all 6 mm in diameter. the magnets are also 6mm in height.
--when using rods use multiples of 10 mm in terms of length. so 60,70,80 mm etc.
+-when using wooden rods use multiples of 10 mm in terms of length. so 60,70,80 mm etc.
 
 Please note that you are not required to make your own designs open source. It would be appreciated if you share pictures of your results on any social platform using the hashtag: #OpenGears 
 You might make it through the hall of fame on Open-Gears.com!
